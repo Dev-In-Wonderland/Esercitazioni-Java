@@ -1159,3 +1159,141 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2023-04-03 19:51:12,225 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\WeeklyProject-w2\src\main\resources
 2023-04-03 19:51:12,227 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-04-03 19:51:12,229 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\WeeklyProject-w2\src\test\resources
+2023-04-03 19:53:42,042 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-03 19:53:42,043 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\WeeklyProject-w2\src\main\resources
+2023-04-03 19:53:42,045 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-03 19:53:42,046 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\WeeklyProject-w2\src\test\resources
+2023-04-03 19:53:42,056 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-03 19:53:42,057 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\WeeklyProject-w3\src\main\resources
+2023-04-03 19:53:42,058 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-03 19:53:42,058 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\WeeklyProject-w3\src\test\resources
+2023-04-04 10:47:54,985 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:47:54,996 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\WeeklyProject-w2\src\main\resources
+2023-04-04 10:47:55,003 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:47:55,006 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\WeeklyProject-w2\src\test\resources
+2023-04-04 10:48:01,534 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BuildWeek_Java_1:BuildWeek_Java_1:0.0.1-SNAPSHOT @ C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\pom.xml.
+2023-04-04 10:48:01,967 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:48:01,971 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 10:48:01,977 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:48:01,981 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 10:48:03,621 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:48:03,625 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 10:48:03,629 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:48:03,633 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 10:48:21,244 [Worker-32: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-04 10:55:40,793 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:55:40,794 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 10:55:40,797 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:55:40,798 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 10:55:48,071 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:55:48,073 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 10:55:48,076 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 10:55:48,079 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:00:45,067 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:00:45,070 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:00:45,072 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:00:45,075 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:01:12,572 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:01:12,574 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:01:12,579 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:01:12,582 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:05:56,716 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:05:56,718 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:05:56,721 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:05:56,723 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:06:07,552 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:06:07,553 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:06:07,556 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:06:07,558 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:06:51,406 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:06:51,409 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:06:51,411 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:06:51,412 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:11:05,830 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:11:05,831 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:11:05,834 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:11:05,836 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:15:30,550 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:15:30,552 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:15:30,554 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:15:30,556 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:15:40,797 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:15:40,798 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:15:40,800 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:15:40,801 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:17:56,189 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:17:56,191 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:17:56,194 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:17:56,196 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:18:18,193 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:18:18,194 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:18:18,196 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:18:18,197 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:25:38,674 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:25:38,676 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:25:38,678 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:25:38,681 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:26:34,405 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:26:34,406 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:26:34,407 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:26:34,409 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:27:27,347 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:27:27,348 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:27:27,350 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:27:27,351 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:28:08,867 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:28:08,868 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:28:08,869 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:28:08,871 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:28:14,856 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:28:14,857 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:28:14,859 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:28:14,860 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:31:35,875 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:31:35,876 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:31:35,877 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:31:35,877 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:31:39,022 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:31:39,023 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:31:39,025 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:31:39,025 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:31:42,358 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:31:42,359 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:31:42,360 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:31:42,362 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:32:58,940 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:32:58,951 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:32:58,956 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:32:58,958 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:38:00,189 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:38:00,192 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:38:00,193 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:38:00,194 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:38:26,635 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:38:26,636 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:38:26,638 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:38:26,640 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:40:02,414 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:40:02,415 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:40:02,417 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:40:02,418 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:43:24,103 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:43:24,105 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:43:24,107 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:43:24,107 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:44:26,099 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:44:26,100 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:44:26,101 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:44:26,102 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:46:34,158 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:46:34,161 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:46:34,162 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:46:34,164 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:46:45,653 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:46:45,654 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:46:45,655 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:46:45,656 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
+2023-04-04 11:47:11,444 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:47:11,445 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\main\resources
+2023-04-04 11:47:11,447 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-04 11:47:11,449 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1\src\test\resources
