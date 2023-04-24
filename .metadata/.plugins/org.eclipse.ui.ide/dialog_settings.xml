@@ -8,6 +8,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\tnann\OneDrive\Desktop\m4\Esercitazioni-Java\week_project_3-main"/>
+			<item value="C:\Users\tnann\OneDrive\Desktop\m5\spring_weeklyprojects\GestionePrenotazioni-master"/>
+			<item value="C:\Users\tnann\OneDrive\Desktop\week_project_3-main"/>
 			<item value="C:\Users\tnann\OneDrive\Documenti\GitHub\Java_BuildWeek_1"/>
 		</list>
 	</section>
